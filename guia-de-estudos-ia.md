@@ -47,7 +47,7 @@
 	* [Podcasts](#pod)
 	* [Open source](#open)
 	* [Artigos](#art)
-	* [Possíveis área de especialização](#esp)
+	* [Possíveis áreas de especialização](#esp)
 		* [Instituições](#inst)
 
 -------------------------------------------
