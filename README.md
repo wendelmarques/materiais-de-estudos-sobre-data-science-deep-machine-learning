@@ -1,0 +1,42 @@
+# materiais-de-estudos-sobre-data-science-deep-machine-learning
+💻 📓 Guia de estudos (iniciante) sobre Inteligência Artificial. Contém trilhas de aprendizagem, canais, cursos , livros etc.
+
+# Materiais de estudos sobre Data Science e Machine/ Deep Learning (Nível iniciante)
+O objetivo deste repositório é organizar os links que encontrei durante minhas pesquisas por materiais de estudos sobre IA - composto por conteúdos majoritariamente gratuitos e em PT-BR. Inicialmente, meu objetivo profissional está entre Data Scientist e Deep/ Machine Learning Engineer (dúvidas 😥), por isso, o repositório será alimentado com materiais nesse sentido. Sinta-se a vontade para adicionar conteúdos ou forkar e mudar o foco.
+
+* [Um pouco sobre a área](guia-de-estudos-ia.md#sobre)
+* [Motivação](guia-de-estudos-ia.md#motivacao)
+* [Trilhas/ Dicas de estudos](guia-de-estudos-ia.md#trilhas)
+* [Conteúdos para utilizar à medida que avançar](guia-de-estudos-ia.md#avanco)
+* [Livros gratuidos e pagos](guia-de-estudos-ia.md#livros)
+* [Matemática](guia-de-estudos-ia.md#mat)
+	* [Fundamentos de matemática](guia-de-estudos-ia.md#f_mat)
+	* [Matemática para Data Science](guia-de-estudos-ia.md#mat_ds)
+	* [Matemática para MACHINE/DEEP LEARNING](guia-de-estudos-ia.md#mat_ml)
+* [Linguagem Python](guia-de-estudos-ia.md#python)
+* [Linguagem R](guia-de-estudos-ia.md#r)
+* [Aulas sobre algumas bibliotecas](guia-de-estudos-ia.md#bibli)
+	* [Tensoflow](guia-de-estudos-ia.md#tensor)
+	* [Pandas](guia-de-estudos-ia.md#pandas)
+* [Fundamentos IA](guia-de-estudos-ia.md#fund_ia)
+	* [Machine Learning](guia-de-estudos-ia.md#ml)
+	* [Redes Neurais/ DEEP LEARNING](guia-de-estudos-ia.md#dp)
+	* [Data Science](guia-de-estudos-ia.md#ds)
+* [Canais do Youtube](guia-de-estudos-ia.md#yt)
+* [Sites com desafios/ problemas](guia-de-estudos-ia.md#desafios)
+* [Cursos Udemy/ Udacity/ Coursera](guia-de-estudos-ia.md#cursos)
+	* [Udemy](guia-de-estudos-ia.md#ude)
+	* [Udacity](guia-de-estudos-ia.md#uda)
+	* [Coursera](guia-de-estudos-ia.md#coursera)
+* [Repositórios](guia-de-estudos-ia.md#rep)
+* [Mais ou menos off topic](guia-de-estudos-ia.md#off)
+	* [Representatividade](guia-de-estudos-ia.md#repres)
+	* [Sites úteis para desenvolvedores Python](guia-de-estudos-ia.md#uteis)
+		* [Links úteis](guia-de-estudos-ia.md#l_uteis)
+	* [Podcasts](guia-de-estudos-ia.md#pod)
+	* [Open source](guia-de-estudos-ia.md#open)
+	* [Artigos](guia-de-estudos-ia.md#art)
+	* [Possíveis área de especialização](guia-de-estudos-ia.md#esp)
+		* [Instituições](guia-de-estudos-ia.md#inst)
+
+
