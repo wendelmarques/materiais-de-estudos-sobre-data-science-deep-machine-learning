@@ -61,9 +61,14 @@
 <h2 id="motivacao">MOTIVAÇÃO</h2>
 
 * ["Ciência de Dados do Zero à Kaggle Kernels Master" - Leonardo Fereira](https://www.linkedin.com/pulse/data-science-from-zero-kaggle-kernel-master-leonardo-ferreira/) | [Linkedin]
+* [#SprintPrograMaria - Casos Técnicos com Machine Learning](https://www.youtube.com/watch?v=qlP98Ph3RaU&t=3109s) [Youtube]
+* [#SprintPrograMaria | Tudo o que você queria saber sobre IA](https://www.youtube.com/watch?v=uc5v-DmiY40)
+* [Quem quer ser uma engenheira de dados? com Pamela Santos (AI Girls)](https://www.youtube.com/watch?v=CS5L6CJycuo)
+* [Como consegui me tornar uma cientista de dados sem ter formação em tecnologia? com Fernanda Santos (AI Girls)](https://www.youtube.com/watch?v=eXg2sVIbFdM)
 * [Tudo que você precisa saber para trabalhar com Inteligência Artificial - Computer World](https://computerworld.com.br/2019/09/29/tudo-que-voce-precisa-saber-para-trabalhar-com-inteligencia-artificial/)
 * [Como eu me tornei um Engenheiro de Machine Learning/Deep Learning - Arnaldo Gualberto](https://medium.com/ensina-ai/como-eu-me-tornei-um-engenheiro-de-machine-learning-deep-learning-e5e98b793b66) | [Medium]
 * [Dilemas da escolha profissional - Kizzy Terra](https://medium.com/programacaodinamica/dilemas-da-escolha-profissional-49bf206af19a) | [Medium]
+* [Workshop Machine Learning com Fernanda Wanderley] (https://www.youtube.com/watch?v=Jq4aKxaoLGM)
 * [Trabalho de um cientista de dados - Café Debug/ Podcast](https://soundcloud.com/cafe-de-bug/33-trabalho-de-um-cientista-de-dados)
 * [Investir em uma carreira em IA vale a pena?](https://blogbrasil.westcon.com/investir-em-uma-carreira-em-inteligencia-artificial-vale-a-pena)
 
