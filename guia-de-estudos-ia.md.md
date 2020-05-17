@@ -1,8 +1,10 @@
 <h1>MATERIAIS DE ESTUDOS SOBRE MACHINE/DEEP LEARNING E DATA SCIENCE</h1>
 
-O objetivo deste repositório é organizar os links que encontrei durante minhas pesquisas por materiais de estudos sobre IA - composto por conteúdos majoritariamente gratuitos e em PT-BR. Inicialmente, meu objetivo profissional está entre Data Scientist e Deep/ Machine Learning Engineer (dúvidas 😥), por isso, o repositório será alimentado com materiais nesse sentido. Sinta-se a vontade para adicionar conteúdos ou *forkar* e mudar o foco. **Bons estudos!**
+<p>O objetivo deste repositório é organizar os links que encontrei durante minhas pesquisas por materiais de estudos sobre IA - composto por conteúdos majoritariamente gratuitos e em PT-BR. Inicialmente, meu objetivo profissional está entre Data Scientist e Deep/ Machine Learning Engineer (dúvidas 😥), por isso, o repositório será alimentado com materiais nesse sentido. Sinta-se a vontade para adicionar conteúdos ou <em>forkar</em> e mudar o foco.  </p>
 
 **Vale ressaltar que estou no começo dos estudos. Ainda estou estudando Python ([Python para Análise de Dados - Data Science Academy (DSA)](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos)**
+
+**Bons estudos!**
 
 <p align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
@@ -66,7 +68,7 @@ O objetivo deste repositório é organizar os links que encontrei durante minhas
 * [Investir em uma carreira em IA vale a pena?](https://blogbrasil.westcon.com/investir-em-uma-carreira-em-inteligencia-artificial-vale-a-pena)
 
 <h2 id="trilhas">TRILHAS/ DICAS DE ESTUDOS</h2>
-O conteúdos dos links podem ser utilizados para quem deseja montar um plano de estudos ou simplemente ter uma noção do que é necessário estudar. 
+<p>Os conteúdos dos links podem ser utilizados para quem deseja montar um plano de estudos ou simplemente ter uma noção do que é necessário estudar. Me ajudaram a entender mais sobre a área, onde eu estava e por onde deveria seguir, por assim dizer. </p>
 
 * [Para iniciar em Data Sciense (DS) - Letícia Silva - ColaboraDados](http://colaboradados.com.br/blogposts/para-iniciar-em-data-science.html)
 * [Seus primeiros passos como Data Scientist: Introdução ao Pandas! - Vinícios Figueiredo](https://medium.com/data-hackers/uma-introdu%C3%A7%C3%A3o-simples-ao-pandas-1e15eea37fa1) [Medium]
