@@ -2,7 +2,7 @@
 
 <p>O objetivo deste repositório é organizar os links que encontrei durante minhas pesquisas por materiais de estudos sobre IA - composto por conteúdos majoritariamente gratuitos e em PT-BR. Inicialmente, meu objetivo profissional está entre Data Scientist e Deep/ Machine Learning Engineer (dúvidas 😥), por isso, o repositório será alimentado com materiais nesse sentido. Sinta-se a vontade para adicionar conteúdos ou <em>forkar</em> e mudar o foco.  </p>
 
-**Vale ressaltar que estou no começo dos estudos. Ainda estou estudando Python ([Python para Análise de Dados - Data Science Academy (DSA)](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos)**
+**Vale ressaltar que estou no começo dos estudos. Ainda estou estudando Python ([Python para Análise de Dados - Data Science Academy (DSA)](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos) (gratuito)**
 
 **Bons estudos!**
 
@@ -128,8 +128,8 @@ Livros em PT-BR e em inglês.
 
 <h2 id="python">LINGUAGEM PYTHON</h2>
 
-* [Curso de Python no Neps Academy](https://www.youtube.com/watch?v=T5pRlIbr6gg&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU) | [pt-br] [Youtube]
-* [Python para Análise de Dados - Data Science Academy (DSA)](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos) | [pt-br]
+* [Curso de Python no Neps Academy](https://www.youtube.com/watch?v=T5pRlIbr6gg&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU) | [pt-br] (gratuito)
+* [Python para Análise de Dados - Data Science Academy (DSA)](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos) | [pt-br] (gratuito)
 * [Curso Python para Machine Learning e Análise de Dados - Didática Tech](https://www.youtube.com/watch?v=MmSXHCxDwBs&list=PLyqOvdQmGdTR46HUxDA6Ymv4DGsIjvTQ-) | [pt-br] [Youtube]
 * [Curso Python para Iniciantes - Didática Tech](https://www.youtube.com/watch?v=bHn91RxiTjY&list=PLyqOvdQmGdTSEPnO0DKgHlkXb8x3cyglD) | [pt-br] [Youtube]
 * [O melhor Curso de Python - Zurubabel](https://www.youtube.com/watch?v=bHn91RxiTjY&list=PLyqOvdQmGdTSEPnO0DKgHlkXb8x3cyglD) | [pt-br] [Youtube]
@@ -142,7 +142,7 @@ Livros em PT-BR e em inglês.
 
 * [Curso R para Machine Learning - Didática Tech](https://www.youtube.com/watch?v=ID5Ui22F8HQ&list=PLyqOvdQmGdTSqkutrKDaVJlEv-ui1MyK4)  | [pt-br] [Youtube]
 * [Estatística com R - Universidade Federal Fluminense/UFF](http://www.estatisticacomr.uff.br/?page_id=38)
-* [Curso de Prgramação R - Zurubabel](https://www.youtube.com/watch?v=plJw9QFew5A&list=PL4OAe-tL47sbzCgtBTthtX50T30CLToEZ) | [pt-br] [Youtube]
+* [Curso de Programação R - Zurubabel](https://www.youtube.com/watch?v=plJw9QFew5A&list=PL4OAe-tL47sbzCgtBTthtX50T30CLToEZ) | [pt-br] [Youtube]
 
 <h2 id="bibli">AULAS SOBRE ALGUMAS BIBLIOTECAS</h2>
 
@@ -161,7 +161,7 @@ Livros em PT-BR e em inglês.
 <h2 id="fund_ia">FUNDAMENTOS IA</h2>
 
 * [Inteligência Artificial - Zurubabel](https://www.youtube.com/watch?v=m1-Hc5-H22M&list=PL4OAe-tL47sY1OgDs7__GJW8xBpPEeNfC) | [pt-br] [Youtube]
-* [Inteligência Artificial Fundamentos - Data Science Academy (DSA)](https://www.datascienceacademy.com.br/course?courseid=inteligencia-artificial-fundamentos) | [pt-br]
+* [Inteligência Artificial Fundamentos - Data Science Academy (DSA)](https://www.datascienceacademy.com.br/course?courseid=inteligencia-artificial-fundamentos) | [pt-br] (gratuito)
 * [Minicurso de Introdução à Machine Learning e Inteligência Artificial](https://www.youtube.com/playlist?list=PLrakQQfctUYUQ2o-9Vop3osTdwWy871D1) | Também em diegonogare.net | [pt-br] [Youtube]
 
 <h3 id="ml">MACHINE LEARNING</h3>
@@ -195,10 +195,10 @@ Livros em PT-BR e em inglês.
 <h3 id="ds">DATA SCIENCE</h3>
 
 * [Trilha EstaTiDados – Data Science (Estatística, Negócios, StoryTelling, Dashboards, Machine Learning, Raspagem, Análise de Sentimentos e Big Data)](https://www.youtube.com/playlist?list=PLjdDBZW3EmXe6hO2Rt5Q9I5wzRZ7j7K8P)  | [pt-br]] [Youtube]
-* [(Big Data Fundamentos 2.0 - Data Science Academy (DSA)](https://www.datascienceacademy.com.br/course?courseid=big-data-fundamentos) | [pt-br]
+* [(Big Data Fundamentos 2.0 - Data Science Academy (DSA)](https://www.datascienceacademy.com.br/course?courseid=big-data-fundamentos) | [pt-br] (gratuito)
 * [Ciência de Dados Aplicada - Programação Dinâmica](https://www.youtube.com/watch?v=DeAuVrhKw58&list=PL5TJqBvpXQv78JrStmN5qp6xoEBT_-3zO) | [Youtube]
-* [Microsoft Power BI para Data Science - Data Science Academy (DSA)](https://www.datascienceacademy.com.br/course?courseid=microsoft-power-bi-para-data-science) | [pt-br]
-* [Introducação à Ciência de Dados 2.0 - Data Science Academy (DSA)](https://www.datascienceacademy.com.br/course?courseid=introduo--cincia-de-dados) | [pt-br]
+* [Microsoft Power BI para Data Science - Data Science Academy (DSA)](https://www.datascienceacademy.com.br/course?courseid=microsoft-power-bi-para-data-science) | [pt-br] (gratuito)
+* [Introducação à Ciência de Dados 2.0 - Data Science Academy (DSA)](https://www.datascienceacademy.com.br/course?courseid=introduo--cincia-de-dados) | [pt-br] (gratuito)
 * [Ciência de Dados do Zuruba - Zurubabel](https://www.youtube.com/watch?v=Y0L0CWTQWDw&list=PL4OAe-tL47sausWpn6QYcETtYltCe3nmp) | [pt-br] [Youtube]
 * [Análise Exploratória de Dados - Zurubabel](https://www.youtube.com/watch?v=4SetLMXelUY&list=PL4OAe-tL47sak0KV_g6VNlPMscQGEAT8t) | [pt-br] [Youtube]
 * [Data Science Your Way - Jose A Dianes/ GitHub](https://github.com/jadianes/data-science-your-way) | [inglês] [Youtube]
