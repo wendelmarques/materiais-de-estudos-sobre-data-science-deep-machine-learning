@@ -1,6 +1,6 @@
 <h1>MATERIAIS DE ESTUDOS SOBRE MACHINE/DEEP LEARNING E DATA SCIENCE</h1>
 
-O objetivo deste repositório é organizar os links que encontrei durante minhas pesquisas por materiais de estudos sobre IA - composto majoritariamente por conteúdos em PT-BR. Inicialmente, meu objetivo profissional está entre Data Scientist e Deep/ Machine Learning Engineer (dúvidas 😥), por isso, o repositório será alimentado com materiais nesse sentido. Sinta-se a vontade para adicionar conteúdos ou *forkar* e mudar o foco. **Bons estudos!**
+O objetivo deste repositório é organizar os links que encontrei durante minhas pesquisas por materiais de estudos sobre IA - composto por conteúdos majoritariamente gratuitos e em PT-BR. Inicialmente, meu objetivo profissional está entre Data Scientist e Deep/ Machine Learning Engineer (dúvidas 😥), por isso, o repositório será alimentado com materiais nesse sentido. Sinta-se a vontade para adicionar conteúdos ou *forkar* e mudar o foco. **Bons estudos!**
 
 **Vale ressaltar que estou no começo dos estudos. Ainda estou estudando Python ([Python para Análise de Dados - Data Science Academy (DSA)](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos)**
 
@@ -21,7 +21,7 @@ O objetivo deste repositório é organizar os links que encontrei durante minhas
 * [Matemática](#mat)
 	* [Fundamentos de matemática](#f_mat)
 	* [Matemática para Data Science](#mat_ds)
-	* [Matemática para MACHINE/DEEP LEARNING](#mat_ml)
+	* [Matemática para Machine/Deep Learning](#mat_ml)
 * [Linguagem Python](#python)
 * [Linguagem R](#r)
 * [Aulas sobre algumas bibliotecas](#bibli)
@@ -29,7 +29,7 @@ O objetivo deste repositório é organizar os links que encontrei durante minhas
 	* [Pandas](#pandas)
 * [Fundamentos IA](#fund_ia)
 	* [Machine Learning](#ml)
-	* [Redes Neurais/ DEEP LEARNING](#dp)
+	* [Redes Neurais/ Deep Learning](#dp)
 	* [Data Science](#ds)
 * [Canais do Youtube](#yt)
 * [Sites com desafios/ problemas](#desafios)
@@ -41,7 +41,7 @@ O objetivo deste repositório é organizar os links que encontrei durante minhas
 * [Mais ou menos off topic](#off)
 	* [Representatividade](#repres)
 	* [Sites úteis para desenvolvedores Python](#uteis)
-		*[Links úteis](#l_uteis)
+		* [Links úteis](#l_uteis)
 	* [Podcasts](#pod)
 	* [Open source](#open)
 	* [Artigos](#art)
