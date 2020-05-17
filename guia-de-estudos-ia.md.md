@@ -4,8 +4,10 @@ O objetivo deste repositório é organizar os links que encontrei durante minhas
 
 **Vale ressaltar que estou no começo dos estudos. Ainda estou estudando Python ([Python para Análise de Dados - Data Science Academy (DSA)](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos)**
 
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
+</p>
 
-![Alt Text](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
 
 
