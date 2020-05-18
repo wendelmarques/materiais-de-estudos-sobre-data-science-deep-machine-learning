@@ -134,6 +134,7 @@ Livros em PT-BR e em inglês.
 <h2 id="python">LINGUAGEM PYTHON</h2>
 
 * [Curso de Python no Neps Academy](https://www.youtube.com/watch?v=T5pRlIbr6gg&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU) | [pt-br] (gratuito)
+* [Introdução à Ciência da Computação com Python Parte 1](https://www.coursera.org/learn/ciencia-computacao-python-conceitos)
 * [Python para Análise de Dados - Data Science Academy (DSA)](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos) | [pt-br] (gratuito)
 * [Curso Python para Machine Learning e Análise de Dados - Didática Tech](https://www.youtube.com/watch?v=MmSXHCxDwBs&list=PLyqOvdQmGdTR46HUxDA6Ymv4DGsIjvTQ-) | [pt-br] [Youtube]
 * [Curso Python para Iniciantes - Didática Tech](https://www.youtube.com/watch?v=bHn91RxiTjY&list=PLyqOvdQmGdTSEPnO0DKgHlkXb8x3cyglD) | [pt-br] [Youtube]
@@ -253,6 +254,7 @@ Alguns gratuitos (sem certificado) e outros pagos.
 
 * [IA para todos - Andrew Ng](https://www.coursera.org/learn/ai-for-everyone-es)
 * [Machine Learning - Stanford](https://www.coursera.org/learn/machine-learning)
+* [Introdução à Ciência da Computação com Python Parte 1](https://www.coursera.org/learn/ciencia-computacao-python-conceitos)
 
 <h3 id="uda">UDACITY</h3>
 
