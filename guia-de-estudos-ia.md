@@ -1,6 +1,8 @@
-<h1>Materiais de estudos sobre Data Science e Machine/ Deep Learning (Nível iniciante)</h1>
+<h1>Materiais de estudos sobre Data Science e Machine/ Deep Learning (nível iniciante)</h1>
 
-<p>O objetivo deste repositório é organizar os links que encontrei durante minhas pesquisas por materiais de estudos sobre IA - composto por conteúdos majoritariamente gratuitos e em PT-BR. Inicialmente, meu objetivo profissional está entre Data Scientist e Deep/ Machine Learning Engineer (dúvidas 😥), por isso, o repositório será alimentado com materiais nesse sentido. Sinta-se a vontade para adicionar conteúdos ou <em>forkar</em> e mudar o foco.  </p>
+O objetivo deste repositório é organizar os links que encontrei durante minhas pesquisas por materiais de estudos sobre IA - composto por conteúdos majoritariamente gratuitos e em PT-BR. Inicialmente, meu objetivo profissional está entre Data Scientist e Machine Learning Engineer (dúvidas 😥), por isso, o repositório será alimentado com materiais nesse sentido. 
+	
+Sinta-se a vontade para adicionar conteúdos ou <em>forkar</em> e mudar o foco.  
 
 **Vale ressaltar que estou no começo dos estudos. Ainda estou estudando Python ([Python para Análise de Dados - Data Science Academy (DSA)](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos) (gratuito)**
 
@@ -16,6 +18,7 @@
 <h1>SUMÁRIO</h1>
 
 * [Um pouco sobre a área](#sobre)
+* [Sugiro que começe por aqui](#comece)
 * [Motivação](#motivacao)
 * [Trilhas/ Dicas de estudos](#trilhas)
 * [Conteúdos para utilizar à medida que avançar](#avanco)
@@ -40,6 +43,7 @@
 	* [Udacity](#uda)
 	* [Coursera](#coursera)
 * [Repositórios](#rep)
+* [Dicas para montar portifólio](#portifolio)
 * [Mais ou menos off topic](#off)
 	* [Representatividade](#repres)
 	* [Sites úteis para desenvolvedores Python](#uteis)
@@ -56,6 +60,13 @@
 
 * [A Diferença Entre Inteligência Artificial, Machine Learning e Deep Learning - Data Science Brigade](https://medium.com/data-science-brigade/a-diferen%C3%A7a-entre-intelig%C3%AAncia-artificial-machine-learning-e-deep-learning-930b5cc2aa42) [Medium]
 * [O que é Ciência de Dados? (QuebraDev)](https://quebradev.com.br/o-que-e-ciencia-de-dados/) [Podcast]
+
+<h2 id="comece">SUGIRO QUE COMEÇE POR AQUI</h2>
+
+* [Como começar em Data Science? (Seja Um Data Scientist)](https://www.youtube.com/watch?v=eXg2sVIbFdM)  | [Youtube]
+* [Siga esse mapa de estudos e aprenda Data Science (Seja Um Data Scientist)](https://www.youtube.com/watch?v=2g7TBUDkDhM) | [Youtube]
+* [Matemática para Machine Learning - Didática Tech](https://www.youtube.com/watch?v=MSHpE9dnIho&list=PLyqOvdQmGdTTYHKdxWRmt8oOhMwYhmxkM) | [pt-br] [Youtube] (Dicas de como estudar matemática)
+* [Finalmente: uma fonte segura mostra o salário de um Cientista de Dados no Brasil! (Mario Filho - Data Science)](https://www.youtube.com/watch?v=zsEEFUJo0zQ) | [pt-br] [Youtube] 
 
 
 <h2 id="motivacao">MOTIVAÇÃO</h2>
@@ -94,6 +105,7 @@
 
 * [Workshop de Ciência de Dados para iniciantes - Nana Raythz](https://github.com/NatOps/Workshop-ciencia-de-dados) | [GitHub]
 * [Plano de estudos em machine learning com conteúdos em português](https://github.com/italojs/awesome-machine-learning-portugues) | [GitHub]
+* [Faster Data Science Education](https://www.kaggle.com/learn/overview): "Esses micro-cursos são a maneira mais rápida de obter as habilidades necessárias para realizar projetos independentes de ciência de dados." | [Kaggle][Inglês]
 
 <h2 id="livros">LIVROS GRATUITOS E PAGOS</h2>
 
@@ -213,6 +225,8 @@ Livros em PT-BR e em inglês.
 
 Conteúdos diversos sobre IA.
 * [Sandeco](https://www.youtube.com/channel/UCIQne9yW4TvCCNYQLszfXCQ)
+* [Mario Filho - Data Science](https://www.youtube.com/channel/UCIFd_i2iwYox1PPm9rD8wFA)
+* [Seja um Data Scientist](https://www.youtube.com/channel/UCar5Cr-pVz08GY_6I3RX9bA/videos)
 * [Peixebabel](https://www.youtube.com/user/CanalPeixeBabel/videos)
 * [PrograMaria](https://www.youtube.com/channel/UC6N7eSdbT5DDdrqZVeN0KGw/featured)
 * [AI Girls Comunidade](https://www.youtube.com/channel/UC_QxmLPZQRJDjjtN1M-gfnQ/videos)
@@ -276,6 +290,9 @@ Repósitorios com conteúdos, trilhas, dicas e exercícios, ou seja, possuem muu
 * [Manual Prático do Deep Learning (código-fonte do curso do Arnaldo Gualberto)](https://github.com/arnaldog12/Manual-Pratico-Deep-Learning) [pt-br]
 * [Materiais de estudos sobre Machine Learning](https://github.com/univille-machine-learning/materiais-de-estudo-sobre-machine-learning) [pt-br]
 
+<h2 id="portifolio">DICAS PARA MONTAR PORTIFÓLIO</h2>
+
+* [Os 5 tipos de projetos obrigátorios para o portifólio de Data Science (Seja Um Data Scientist)](https://www.youtube.com/watch?v=LJrK4B7bNWA) | [Youtube]
 
 
 <h2 id="off">MAIS OU MENOS OFF-TOPIC</h2>
