@@ -367,6 +367,7 @@ Repósitorios com conteúdos, trilhas, dicas e exercícios, ou seja, possuem muu
 * [INF-UFG](http://ww2.inf.ufg.br/ppgcc/node/670)
 * [Deep Learning Brasil - INF/UFG](http://deeplearning.inf.ufg.br/index.php/cursos)
 * [EACH/USP](http://ppgsi.each.usp.br/inteligencia-artificial/)
+* [IGTI – Instituto de Gestão e Tecnologia da Informação](https://www.igti.com.br/)
 
 
 
