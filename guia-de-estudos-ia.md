@@ -2,11 +2,16 @@
 
 O objetivo deste repositório é organizar os links que encontrei durante minhas pesquisas por materiais de estudos sobre IA - composto por conteúdos majoritariamente gratuitos e em PT-BR. Inicialmente, meu objetivo profissional está entre Data Scientist e Machine Learning Engineer (dúvidas 😥), por isso, o repositório será alimentado com materiais nesse sentido. 
 	
-Sinta-se a vontade para adicionar conteúdos ou <em>forkar</em> e mudar o foco.  
+Sinta-se a vontade para adicionar conteúdos ou <em>forkar</em> e mudar o foco. **Bons estudos!**
 
-**Vale ressaltar que estou no começo dos estudos. Ainda estou estudando Python ([Python para Análise de Dados - Data Science Academy (DSA)](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos) (gratuito)**
+**Vale ressaltar que estou no começo dos estudos. <s>Ainda estou estudando Python ([Python para Análise de Dados - Data Science Academy (DSA)](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos) (gratuito)**</s>
 
-**Bons estudos!**
+<h1>MINHA TRILHA</h1>
+
+* Conclui o curso [Python para Análise de Dados - Data Science Academy](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos) [[certificado]](www.ww.com)
+* Agora estou fazendo o curso: [Bootcamp Completo em Data Science com Python 2020](https://www.udemy.com/course/curso-de-data-science-bootcamp-completo-em-data-science/)
+
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
@@ -15,7 +20,7 @@ Sinta-se a vontade para adicionar conteúdos ou <em>forkar</em> e mudar o foco.
 
 
 
-<h1>SUMÁRIO</h1>
+<h1>LISTA DE CONTEÚDOS</h1>
 
 * [Um pouco sobre a área](#sobre)
 * [Sugiro que começe por aqui](#comece)
@@ -42,6 +47,7 @@ Sinta-se a vontade para adicionar conteúdos ou <em>forkar</em> e mudar o foco.
 	* [Udemy](#ude)
 	* [Udacity](#uda)
 	* [Coursera](#coursera)
+* [Datasets para iniciantes](#dataset)
 * [Repositórios](#rep)
 * [Dicas para montar portifólio](#portifolio)
 * [Mais ou menos off topic](#off)
@@ -67,6 +73,7 @@ Sinta-se a vontade para adicionar conteúdos ou <em>forkar</em> e mudar o foco.
 * [Siga esse mapa de estudos e aprenda Data Science (Seja Um Data Scientist)](https://www.youtube.com/watch?v=2g7TBUDkDhM) | [Youtube]
 * [Matemática para Machine Learning - Didática Tech](https://www.youtube.com/watch?v=MSHpE9dnIho&list=PLyqOvdQmGdTTYHKdxWRmt8oOhMwYhmxkM) | [pt-br] [Youtube] (Dicas de como estudar matemática)
 * [Finalmente: uma fonte segura mostra o salário de um Cientista de Dados no Brasil! (Mario Filho - Data Science)](https://www.youtube.com/watch?v=zsEEFUJo0zQ) | [pt-br] [Youtube] 
+* [Siga Este Plano Para Aprender a Matemática Para Data Science - Live #31 - Mario Filho - Data Science](https://www.youtube.com/watch?v=XHnsS87bhuY&t=2599s) | [pt-br] [Youtube] 
 
 
 <h2 id="motivacao">MOTIVAÇÃO</h2>
@@ -88,6 +95,7 @@ Sinta-se a vontade para adicionar conteúdos ou <em>forkar</em> e mudar o foco.
 
 * [Para iniciar em Data Sciense (DS) - Letícia Silva - ColaboraDados](http://colaboradados.com.br/blogposts/para-iniciar-em-data-science.html)
 * [Seus primeiros passos como Data Scientist: Introdução ao Pandas! - Vinícios Figueiredo](https://medium.com/data-hackers/uma-introdu%C3%A7%C3%A3o-simples-ao-pandas-1e15eea37fa1) [Medium]
+* [Siga Este Plano Para Aprender a Matemática Para Data Science - Live #31 - Mario Filho - Data Science](https://www.youtube.com/watch?v=XHnsS87bhuY&t=2599s) | [pt-br] [Youtube] 
 * [Python para ciência de dados em 5 passos - Nana Raythz](https://imasters.com.br/data/python-para-ciencia-de-dados-em-5-passos)
 * [Plano de estudos em machine learning completo](https://github.com/italojs/awesome-machine-learning-portugues) | [pt-br] [GitHub]
 * [Dicas de estudos para aprender Machine Learning](https://juliocprocha.wordpress.com/2017/04/09/dicas-de-estudos-para-aprender-machine-learning/) | [pt-br]
@@ -109,15 +117,22 @@ Sinta-se a vontade para adicionar conteúdos ou <em>forkar</em> e mudar o foco.
 
 <h2 id="livros">LIVROS GRATUITOS E PAGOS</h2>
 
-Livros em PT-BR e em inglês.  
+Livros recomendados por profissionais da área. Peguei essas recomendações em lives e artigos no Medium. 
+(PT-BR e em inglês)
 
+* [Python Data Science Handbook](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb#scrollTo=GBz3cb5ZbWT5) - "Esta é a versão do caderno Jupyter do Python Data Science Handbook de Jake VanderPlas; o conteúdo está disponível no GitHub."
+* Python para análise de dados: Tratamento de dados com Pandas, NumPy e IPython
+* Data Science do Zero - Primeiras Regras Com o Python do autor Joel Grus
+* Análise de Dados com Python e Pandas - Daniel Chen
+* Como Mentir com Estatística -  Darrell Heff
+* Estatística Prática para Cientistas de Dados -  Andrew Bruce, Peter C. Bruce
+* Storytelling com Dados: um guia sobre visualização de dados para profissionais de negócio - autora Cole Nussbaumer Knaflic
+* Business Intelligence e Análise de Dados para Gestão do Negócio - autor Dursun Delen
+* Data Science Para Negócios: O que Você Precisa Saber Sobre Mineração de Dados e Pensamento Analítico de Dados
 * [Deep Learning - Ian Goodfellow/ Yoshua Bengio/ Aaron Courville](https://www.deeplearningbook.org/): muito recomendado por profissionais da área. |  [Inglês]
-* [Deep Leraning Book - Data Science Academy](http://deeplearningbook.com.br/) |  [pt-br]
+* [Deep Learning Book - Data Science Academy](http://deeplearningbook.com.br/) |  [pt-br]
 * [Introdução à Ciência de Dados: Fundamentos e Aplicações - IME/ USP/ Pedro Morettin/ Julio Singer](https://www.ime.usp.br/~pam/cdados.pdf)  |  [pt-br]
 * [Como funciona o Deep Learning - ICMC/ USP/ Moacir Ponti/Gabriel Costa](https://sites.icmc.usp.br/moacir/papers/Ponti_Costa_Como-funciona-o-Deep-Learning_2017.pdf)  |  [pt-br]
-* Storytelling com Dados: um Guia Sobre Visualização de Dados Para Profissionais de Negócios da autora Cole Nussbaumer Knaflic
-* Data Science do Zero - Primeiras Regras Com o Python do autor Joel Grus
-* Business Intelligence e Análise de Dados para Gestão do Negócio do autor Dursun Delen
 
 <h2 id="mat">MATEMÁTICA</h2>
 
@@ -127,6 +142,7 @@ Livros em PT-BR e em inglês.
 
 * [Fundamentos de Matemática - Didática Tech](https://www.youtube.com/watch?v=JVoOF4hjPi8&list=PLyqOvdQmGdTRR5JfSyyeVO4XG7IkBcw5A) | [pt-br][Youtube]
 * [Pré-cálculo do Zuruba - Zurubabel](https://www.youtube.com/watch?v=huY40aEe30M&list=PL4OAe-tL47sbtMWKh_gOwgAURmja4v7cN) | [pt-br] [Youtube]
+* [Siga Este Plano Para Aprender a Matemática Para Data Science - Live #31 - Mario Filho - Data Science](https://www.youtube.com/watch?v=XHnsS87bhuY&t=2599s) | [pt-br] [Youtube] 
 
 
 <h3 id="mat_ds">MATEMÁTICA PARA DATA SCIENCE</h3>
@@ -290,9 +306,20 @@ Repósitorios com conteúdos, trilhas, dicas e exercícios, ou seja, possuem muu
 * [Manual Prático do Deep Learning (código-fonte do curso do Arnaldo Gualberto)](https://github.com/arnaldog12/Manual-Pratico-Deep-Learning) [pt-br]
 * [Materiais de estudos sobre Machine Learning](https://github.com/univille-machine-learning/materiais-de-estudo-sobre-machine-learning) [pt-br]
 
+<h2 id="dataset">DATASETS PARA INICIANTES</h2>
+(organizar)
+https://archive.ics.uci.edu/ml/datasets.php
+
+
 <h2 id="portifolio">DICAS PARA MONTAR PORTIFÓLIO</h2>
 
 * [Os 5 tipos de projetos obrigátorios para o portifólio de Data Science (Seja Um Data Scientist)](https://www.youtube.com/watch?v=LJrK4B7bNWA) | [Youtube]
+https://blog.academiain1.com.br/big-data-voce-conhece-os-4-tipos-de-analise-de-dados/
+https://blog.toccato.com.br/aprenda-como-fazer-uma-analise-de-dados-eficiente-em-6-passos/ (organizar)
+https://blog-in1-com-br.cdn.ampproject.org/v/s/blog.in1.com.br/como-criar-uma-modelagem-de-dados-de-forma-eficaz?hs_amp=true&amp_js_v=0.1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=Fonte%3A%20%251%24s&ampshare=https%3A%2F%2Fblog.in1.com.br%2Fcomo-criar-uma-modelagem-de-dados-de-forma-eficaz (organizar)
+https://sigmoidal.ai/guia-basico-de-pre-processamento-de-dados/ (organizar)
+https://sigmoidal.ai/como-tratar-dados-ausentes-com-pandas/
+https://medium.com/databootcamp/meu-checklist-de-projetos-de-aprendizado-de-m%C3%A1quina-34328850d7ab
 
 
 <h2 id="off">MAIS OU MENOS OFF-TOPIC</h2>
@@ -305,6 +332,8 @@ Repósitorios com conteúdos, trilhas, dicas e exercícios, ou seja, possuem muu
 * [perifaCode](https://perifacode.com/)
 * [PrograMaria](https://www.youtube.com/channel/UC6N7eSdbT5DDdrqZVeN0KGw/featured)
 * [AI Girls Comunidade](https://www.youtube.com/channel/UC_QxmLPZQRJDjjtN1M-gfnQ/videos)
+* [DevAIWomen - DevelopersBR](https://www.youtube.com/channel/UCGhSrtP0-1qq0XPbnMpi2kQ/search?query=DevAIWomen)
+* [BlackPowerData](https://blackpowerdata.com/)
 
 
 <h3 id="uteis">SITES ÚTEIS PARA DESENVOLVEDORES PYTHON</h3>
