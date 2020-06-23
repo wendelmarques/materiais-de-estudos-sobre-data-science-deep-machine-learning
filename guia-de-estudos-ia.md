@@ -6,10 +6,13 @@ Sinta-se a vontade para adicionar conteúdos ou <em>forkar</em> e mudar o foco. 
 
 **Vale ressaltar que estou no começo dos estudos. <s>Ainda estou estudando Python ([Python para Análise de Dados - Data Science Academy (DSA)](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos) (gratuito)**</s>
 
-<h1>MINHA TRILHA</h1>
+
+<h2>MINHA TRILHA</h2>
 
 * Conclui o curso [Python para Análise de Dados - Data Science Academy](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos) [[certificado]](www.ww.com)
 * Agora estou fazendo o curso: [Bootcamp Completo em Data Science com Python 2020](https://www.udemy.com/course/curso-de-data-science-bootcamp-completo-em-data-science/)
+
+
 
 
 
