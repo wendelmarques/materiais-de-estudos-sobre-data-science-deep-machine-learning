@@ -70,9 +70,10 @@ Sinta-se a vontade para adicionar conteúdos ou <em>forkar</em> e mudar o foco. 
 
 * [A Diferença Entre Inteligência Artificial, Machine Learning e Deep Learning - Data Science Brigade](https://medium.com/data-science-brigade/a-diferen%C3%A7a-entre-intelig%C3%AAncia-artificial-machine-learning-e-deep-learning-930b5cc2aa42) [Medium]
 * [O que é Ciência de Dados? (QuebraDev)](https://quebradev.com.br/o-que-e-ciencia-de-dados/) [Podcast]
-* ([Online | DevAIWomen] Bate papo sobre Data Science, Data Analytics e Data Engineer)[https://www.youtube.com/watch?v=OiE7CVi1QCA]
-* (Quem quer ser uma cientista de dados? com Liliane Scandoleiro - AI Girls Comunidade)[https://www.youtube.com/watch?v=AcpTqGPExmU]
+* [[Online | DevAIWomen] Bate papo sobre Data Science, Data Analytics e Data Engineer](https://www.youtube.com/watch?v=OiE7CVi1QCA)
+* [Quem quer ser uma cientista de dados? com Liliane Scandoleiro - AI Girls Comunidade](https://www.youtube.com/watch?v=AcpTqGPExmU)
 * [Como iniciar na carreira de ciência de dados?](https://medium.com/@mikaeriohana/como-iniciar-na-carreira-de-ci%C3%AAncia-de-dados-9b37aa525181)
+* [10 tipos de profissionais de dados : de engenheiros de dados a big data DevOps e analistas de dados , em qual dessas classificações você se encaixaria?](https://medium.com/@luis.anderson.sp/10-tipos-de-profissionais-de-dados-de-engenheiros-de-dados-a-big-data-devops-e-analistas-de-94259531270f)  [Medium]
 
 <h2 id="comece">SUGIRO QUE COMEÇE POR AQUI</h2>
 
