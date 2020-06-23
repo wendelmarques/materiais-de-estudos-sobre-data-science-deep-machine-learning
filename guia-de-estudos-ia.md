@@ -132,6 +132,7 @@ Livros recomendados por profissionais da área. Peguei essas recomendações em 
 * Data Science do Zero - Primeiras Regras Com o Python do autor Joel Grus
 * Análise de Dados com Python e Pandas - Daniel Chen
 * Como Mentir com Estatística -  Darrell Heff
+* Mãos à Obra: Aprendizado de Máquina com Scikit-Learn & TensorFlow
 * Estatística Prática para Cientistas de Dados -  Andrew Bruce, Peter C. Bruce
 * Storytelling com Dados: um guia sobre visualização de dados para profissionais de negócio - autora Cole Nussbaumer Knaflic
 * Business Intelligence e Análise de Dados para Gestão do Negócio - autor Dursun Delen
