@@ -53,6 +53,7 @@ Sinta-se a vontade para adicionar conteúdos ou <em>forkar</em> e mudar o foco. 
 * [Datasets para iniciantes](#dataset)
 * [Repositórios](#rep)
 * [Dicas para montar portifólio](#portifolio)
+* [Freelancer em Data Science](#freela)
 * [Mais ou menos off topic](#off)
 	* [Representatividade](#repres)
 	* [Sites úteis para desenvolvedores Python](#uteis)
@@ -325,6 +326,10 @@ https://blog-in1-com-br.cdn.ampproject.org/v/s/blog.in1.com.br/como-criar-uma-mo
 https://sigmoidal.ai/guia-basico-de-pre-processamento-de-dados/ (organizar)
 https://sigmoidal.ai/como-tratar-dados-ausentes-com-pandas/
 https://medium.com/databootcamp/meu-checklist-de-projetos-de-aprendizado-de-m%C3%A1quina-34328850d7ab
+
+<h2 id="freela">FREELANCER EM DATA SCIENCE</h2>
+
+* [Como ser Freelancer em Data Science - Mario Filho](https://www.youtube.com/watch?v=ggdXJJNh7-k)
 
 
 <h2 id="off">MAIS OU MENOS OFF-TOPIC</h2>
