@@ -344,6 +344,7 @@ https://medium.com/databootcamp/meu-checklist-de-projetos-de-aprendizado-de-m%C3
 * [AI Girls Comunidade](https://www.youtube.com/channel/UC_QxmLPZQRJDjjtN1M-gfnQ/videos)
 * [DevAIWomen - DevelopersBR](https://www.youtube.com/channel/UCGhSrtP0-1qq0XPbnMpi2kQ/search?query=DevAIWomen)
 * [BlackPowerData](https://blackpowerdata.com/)
+* [PodProgramar](https://podprogramar.com.br/)
 
 
 <h3 id="uteis">SITES ÚTEIS PARA DESENVOLVEDORES PYTHON</h3>
@@ -371,6 +372,7 @@ https://medium.com/databootcamp/meu-checklist-de-projetos-de-aprendizado-de-m%C3
 <h3 id="pod">PODCASTS</h3>
 
 * [Pizza de Dados](pizzadedados.com/)
+* [PodProgramar](https://mundopodcast.com.br/podprogramar/79-ciencia-de-dados/)
 * [Café Debug](https://soundcloud.com/cafe-de-bug)
 * [QuebraDev](https://quebradev.com.br/)
 * [Dev na Estrada](https://quebradev.com.br/)
