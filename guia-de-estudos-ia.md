@@ -72,6 +72,7 @@ Sinta-se a vontade para adicionar conteúdos ou <em>forkar</em> e mudar o foco. 
 * [O que é Ciência de Dados? (QuebraDev)](https://quebradev.com.br/o-que-e-ciencia-de-dados/) [Podcast]
 * ([Online | DevAIWomen] Bate papo sobre Data Science, Data Analytics e Data Engineer)[https://www.youtube.com/watch?v=OiE7CVi1QCA]
 * (Quem quer ser uma cientista de dados? com Liliane Scandoleiro - AI Girls Comunidade)[https://www.youtube.com/watch?v=AcpTqGPExmU]
+* [Como iniciar na carreira de ciência de dados?](https://medium.com/@mikaeriohana/como-iniciar-na-carreira-de-ci%C3%AAncia-de-dados-9b37aa525181)
 
 <h2 id="comece">SUGIRO QUE COMEÇE POR AQUI</h2>
 
