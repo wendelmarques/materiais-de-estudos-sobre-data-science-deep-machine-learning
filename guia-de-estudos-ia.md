@@ -137,6 +137,7 @@ Livros recomendados por profissionais da área. Peguei essas recomendações em 
 * Estatística Prática para Cientistas de Dados -  Andrew Bruce, Peter C. Bruce
 * Storytelling com Dados: um guia sobre visualização de dados para profissionais de negócio - autora Cole Nussbaumer Knaflic
 * Business Intelligence e Análise de Dados para Gestão do Negócio - autor Dursun Delen
+* Essential Math for Data Science
 * Data Science Para Negócios: O que Você Precisa Saber Sobre Mineração de Dados e Pensamento Analítico de Dados
 * [Deep Learning - Ian Goodfellow/ Yoshua Bengio/ Aaron Courville](https://www.deeplearningbook.org/): muito recomendado por profissionais da área. |  [Inglês]
 * [Deep Learning Book - Data Science Academy](http://deeplearningbook.com.br/) |  [pt-br]
