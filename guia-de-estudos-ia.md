@@ -1,20 +1,21 @@
 <h1>Materiais de estudos sobre Data Science e Machine/ Deep Learning (nível iniciante)</h1>
 
-O objetivo deste repositório é organizar os links que encontrei durante minhas pesquisas por materiais de estudos sobre IA - composto por conteúdos majoritariamente gratuitos e em PT-BR. Inicialmente, meu objetivo profissional está entre Data Scientist e Machine Learning Engineer (dúvidas 😥), por isso, o repositório será alimentado com materiais nesse sentido. 
+O objetivo deste repositório é organizar os links que encontrei durante minhas pesquisas por materiais de estudos sobre IA - composto por conteúdos majoritariamente gratuitos e em PT-BR. Inicialmente, meu objetivo profissional está entre Data Scientist e Machine Learning Engineer, por isso, o repositório será alimentado com materiais nesse sentido. 
 	
 Sinta-se a vontade para adicionar conteúdos ou <em>forkar</em> e mudar o foco. **Bons estudos!**
 
 **Vale ressaltar que estou no começo dos estudos. <s>Ainda estou estudando Python ([Python para Análise de Dados - Data Science Academy (DSA)](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos) (gratuito)**</s>
 
-
+<br>
+<br>
 <h2>MINHA TRILHA</h2>
 
 * Conclui o curso [Python para Análise de Dados - Data Science Academy](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos) [[certificado]](www.ww.com)
 * Agora estou fazendo o curso: [Bootcamp Completo em Data Science com Python 2020](https://www.udemy.com/course/curso-de-data-science-bootcamp-completo-em-data-science/)
 
 
-
-
+<br>
+<br>
 
 <p align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
