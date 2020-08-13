@@ -1,4 +1,4 @@
-<h1>Materiais de estudos sobre Data Science e Machine/ Deep Learning (nível iniciante)</h1>
+<h1>Materiais de estudos sobre Data Science e Machine Learning (nível iniciante)</h1>
 
 O objetivo deste repositório é organizar os links que encontrei durante minhas pesquisas por materiais de estudos sobre IA - composto por conteúdos majoritariamente gratuitos e em PT-BR. Inicialmente, meu objetivo profissional está entre Data Scientist e Machine Learning Engineer, por isso, o repositório será alimentado com materiais nesse sentido. 
 	
