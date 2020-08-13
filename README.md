@@ -1,7 +1,7 @@
-#### materiais-de-estudos-sobre-data-science-deep-machine-learning
+#### materiais-de-estudos-sobre-data-science-machine-learning
 💻 📓 Um guia de estudos (iniciante) sobre Inteligência Artificial. Contém trilhas de aprendizagem, canais, cursos , livros etc.
 
-# Materiais de estudos sobre Data Science e Machine/ Deep Learning (Nível iniciante)
+# Materiais de estudos sobre Data Science e Machine Learning (nível iniciante)
 O objetivo deste repositório é organizar os links que encontrei durante minhas pesquisas por materiais de estudos sobre IA - composto por conteúdos majoritariamente gratuitos e em PT-BR. Inicialmente, meu objetivo profissional está entre Data Scientist e Deep/ Machine Learning Engineer (dúvidas 😥), por isso, o repositório será alimentado com materiais nesse sentido. Sinta-se a vontade para adicionar conteúdos ou forkar e mudar o foco.
 
 * [Um pouco sobre a área](guia-de-estudos-ia.md#sobre)
