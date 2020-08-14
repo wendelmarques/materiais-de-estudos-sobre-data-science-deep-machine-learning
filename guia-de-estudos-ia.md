@@ -19,7 +19,7 @@ Sinta-se a vontade para adicionar conteúdos ou <em>forkar</em> e mudar o foco. 
 
 <h3>Meus projetos</h3>
 
-* Mapeamento de médias do ENEM com Folium - [Medium](https://medium.com/@WendelMarquesJS/mapeamento-de-m%C3%A9dias-do-enem-por-estado-com-folium-bf61fe23a3d8) | [Repósitorio](https://github.com/WendelMarques/mapeamento-medias-enem-folium)
+* Mapeamento de médias do ENEM com Folium - [Medium](https://medium.com/@wendelmarques/mapeamento-de-m%C3%A9dias-do-enem-por-estado-com-folium-bf61fe23a3d8) | [Repósitorio](https://github.com/WendelMarques/mapeamento-medias-enem-folium)
 
 
 
