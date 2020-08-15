@@ -406,23 +406,6 @@ https://medium.com/databootcamp/meu-checklist-de-projetos-de-aprendizado-de-m%C3
 * [OpenAI](https://openai.com/requests-for-research/)
 
 
-<h3 id="esp">POSSÍVEIS ÁREAS DE ESPECIALIZAÇÃO</h3>
-
-* Arquiteturas Inspiradas em Neurociência (Redes Neurais, por exemplo)
-* Deep Reinforcement Learning
-* Distributed and Federated Machile Learning
-* Machile Learning Para Finanças
-* Machile Learning Para Saúde
-* Neural Turing Machines
-* Neural Architecture Search
-* (...)
-
-<h4 id="inst">INSTITUIÇÕES</h4>
-
-* [INF-UFG](http://ww2.inf.ufg.br/ppgcc/node/670)
-* [Deep Learning Brasil - INF/UFG](http://deeplearning.inf.ufg.br/index.php/cursos)
-* [EACH/USP](http://ppgsi.each.usp.br/inteligencia-artificial/)
-* [IGTI – Instituto de Gestão e Tecnologia da Informação](https://www.igti.com.br/)
 
 
 
