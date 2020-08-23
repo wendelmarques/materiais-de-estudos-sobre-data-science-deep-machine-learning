@@ -12,12 +12,13 @@ Sinta-se a vontade para adicionar conteúdos ou <em>forkar</em> e mudar o foco. 
 
 <h3>Cursos</h3>
 
-* Conclui o curso [Python para Análise de Dados - Data Science Academy](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos) [[certificado]](#)
-* (Pausa) Agora estou fazendo o curso: [Bootcamp Completo em Data Science com Python 2020](https://www.udemy.com/course/curso-de-data-science-bootcamp-completo-em-data-science/)
-* Por causa da gratuidade oferecida pela Coursera para estudantes universitários, comecei a estudar pelo [Programa de cursos integrados Ciência de dados aplicada com Python da University of Michigan](https://www.coursera.org/specializations/data-science-python)
+* [Concluído] [Python para Análise de Dados - Data Science Academy](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos) [[certificado]](#)
+* [Concluído] [Introdução ao Big Data - Fia Business School (Cousera)](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos) [[certificado]](#)
+* [Pausado] [Bootcamp Completo em Data Science com Python 2020](https://www.udemy.com/course/curso-de-data-science-bootcamp-completo-em-data-science/)
+* [Em andamento] Por causa da gratuidade oferecida pela Coursera para estudantes universitários, comecei a estudar pelo [Programa de cursos integrados Ciência de dados aplicada com Python da University of Michigan](https://www.coursera.org/specializations/data-science-python)
 
 
-<h3>Meus projetos</h3>
+<h3>Projetos</h3>
 
 * Mapeamento de médias do ENEM com Folium - [Medium](https://medium.com/@wendelmarques/mapeamento-de-m%C3%A9dias-do-enem-por-estado-com-folium-bf61fe23a3d8) | [Repósitorio](https://github.com/WendelMarques/mapeamento-medias-enem-folium)
 
