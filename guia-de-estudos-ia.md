@@ -352,6 +352,8 @@ https://medium.com/databootcamp/meu-checklist-de-projetos-de-aprendizado-de-m%C3
 
 <h3 id="repres">REPRESENTATIVIDADE</h3>
 
+* [R-Ladies](https://rladies.org/)
+* [Pyladies](https://brasil.pyladies.com/)
 * [Tecnogueto](https://tecnogueto.com.br/)
 * [QuebraDev](https://quebradev.com.br/)
 * [AfroPython](https://afropython.org/)
