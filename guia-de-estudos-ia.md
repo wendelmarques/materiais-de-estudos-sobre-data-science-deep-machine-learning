@@ -18,10 +18,13 @@ Sinta-se a vontade para adicionar conteúdos ou <em>forkar</em> e mudar o foco. 
 * [Em andamento] [Programa de cursos integrados Ciência de dados aplicada com Python da University of Michigan](https://www.coursera.org/specializations/data-science-python)
 
 
-<h3>Projetos</h3>
+<h3>Projetos desenvolvidos até o momento</h3>
 
-* Mapeamento de médias do ENEM com Folium - [Medium](https://medium.com/@wendelmarques/mapeamento-de-m%C3%A9dias-do-enem-por-estado-com-folium-bf61fe23a3d8) | [Repósitorio](https://github.com/WendelMarques/mapeamento-medias-enem-folium)
-* Painel Evolução da COVID-19 em Goiânia (por bairro) [em breve]
+* [Mapeamento de médias do ENEM com Folium:](https://github.com/WendelMarques/mapeamento-medias-enem-folium)
+Mapeamento de médias do ENEM com Folium (uma biblioteca que facilita a visualização de dados em um mapa). A plotagem foi realizada levando-se em consideração os limites estaduais. Sendo assim, existem 27 grupos de escolas. Foram utilizados dois datasets. [[Medium]](https://medium.com/@wendelmarques/mapeamento-de-m%C3%A9dias-do-enem-por-estado-com-folium-bf61fe23a3d8)
+
+* [Painel COVID GYN:](https://github.com/wendelmarques/painel-covid-goiania)
+O projeto utiliza abordagens de ciência dos dados para desenvolver um painel de monitoramento dos dados da COVID-19 em relação a casos confirmados e óbitos. O painel contém gráficos e mapa com dados de Goiânia.
 
 
 
