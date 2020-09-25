@@ -10,7 +10,7 @@ Sinta-se a vontade para adicionar conteúdos ou <em>forkar</em> e mudar o foco. 
 <br>
 <h2>MINHA TRILHA</h2>
 
-<h3>Cursos</h3>
+<h3>Cursos realizados até o momento</h3>
 
 * [Concluído] [Python para Análise de Dados - Data Science Academy](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos) [[certificado]](https://www.datascienceacademy.com.br/certificate/57b4a75247d7dd688d8b456b/user/5eb4289ee32fc3728940687c)
 * [Concluído] [Introdução ao Big Data - Fia Business School (Cousera)](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos) [[certificado]](https://www.coursera.org/account/accomplishments/records/U6WVRZY6CGQE)
