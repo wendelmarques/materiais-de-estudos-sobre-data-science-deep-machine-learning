@@ -33,7 +33,11 @@ O projeto utiliza abordagens de ciência dos dados para desenvolver um painel de
 
 <p align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
+</p></figcaption>
+<p align="center">
+  Como me sinto quando tento estudar durante uma pandemia
 </p>
+
 
 
 
