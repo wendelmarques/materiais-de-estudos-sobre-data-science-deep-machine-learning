@@ -4,19 +4,23 @@ O objetivo deste repositório é organizar os links que encontrei durante minhas
 	
 Sinta-se a vontade para adicionar conteúdos ou <em>forkar</em> e mudar o foco. **Bons estudos!**
 
-**Vale ressaltar que estou no começo dos estudos. <s>Ainda estou estudando Python ([Python para Análise de Dados - Data Science Academy (DSA)](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos) (gratuito)**</s>
+ 
 
 <br>
 <br>
-<h2>MINHA TRILHA</h2>
+<h2>MINHA TRILHA/ JORNADA</h2>
 
-<h3>Cursos realizados até o momento</h3>
+<h3>Cursos realizados e experiências profissinais até o momento</h3>
 
-* [Concluído] [Python para Análise de Dados - Data Science Academy](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos) [[certificado]](https://www.datascienceacademy.com.br/certificate/57b4a75247d7dd688d8b456b/user/5eb4289ee32fc3728940687c)
-* [Concluído] [Introdução ao Big Data - Fia Business School (Cousera)](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos) [[certificado]](https://www.coursera.org/account/accomplishments/records/U6WVRZY6CGQE)
-* [Pausado] [Bootcamp Completo em Data Science com Python 2020](https://www.udemy.com/course/curso-de-data-science-bootcamp-completo-em-data-science/)
-* [Pausado] [Programa de cursos integrados Ciência de dados aplicada com Python da University of Michigan](https://www.coursera.org/specializations/data-science-python)
-* [Em andamento] [Curso de Python 3 do Básico Ao Avançado](https://www.udemy.com/course/python-3-do-zero-ao-avancado/)
+* **2020**
+  * [Concluído] [Python para Análise de Dados - Data Science Academy](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos) [[certificado]](https://www.datascienceacademy.com.br/certificate/57b4a75247d7dd688d8b456b/user/5eb4289ee32fc3728940687c)
+  * [Concluído] [Introdução ao Big Data - Fia Business School (Cousera)](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos) [[certificado]](https://www.coursera.org/account/accomplishments/records/U6WVRZY6CGQE)
+  * [Pausado] [Bootcamp Completo em Data Science com Python 2020](https://www.udemy.com/course/curso-de-data-science-bootcamp-completo-em-data-science/)
+  * [Pausado] [Programa de cursos integrados Ciência de dados aplicada com Python da University of Michigan](https://www.coursera.org/specializations/data-science-python)
+  * Estágio em Engenharia de Dados 
+
+* **2021**
+	* [Em andamento] [Curso de Python 3 do Básico Ao Avançado](https://www.udemy.com/course/python-3-do-zero-ao-avancado/)
 
 
 <h3>Projetos desenvolvidos até o momento</h3>
