@@ -17,7 +17,7 @@ Sinta-se a vontade para adicionar conteúdos ou <em>forkar</em> e mudar o foco. 
   * [Concluído] [Introdução ao Big Data - Fia Business School (Cousera)](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos) [[certificado]](https://www.coursera.org/account/accomplishments/records/U6WVRZY6CGQE)
   * [Pausado] [Bootcamp Completo em Data Science com Python 2020](https://www.udemy.com/course/curso-de-data-science-bootcamp-completo-em-data-science/)
   * [Pausado] [Programa de cursos integrados Ciência de dados aplicada com Python da University of Michigan](https://www.coursera.org/specializations/data-science-python)
-  * Estágio na área de Engenharia de Dados: criação de scripts para apoiar os processos de ETL
+  * Estágio na área de Engenharia de Dados: criação de scripts para apoiar os processos de ETLde um Observatório
 
 * **2021**
 	* [Em andamento] [Curso de Python 3 do Básico Ao Avançado - Luiz Miranda (Udemy)](https://www.udemy.com/course/python-3-do-zero-ao-avancado/)
