@@ -20,8 +20,8 @@ Sinta-se a vontade para adicionar conteúdos ou <em>forkar</em> e mudar o foco. 
   * Estágio na área de Engenharia de Dados: criação de scripts para apoiar os processos de ETL
 
 * **2021**
-	* [Em andamento] [Curso de Python 3 do Básico Ao Avançado](https://www.udemy.com/course/python-3-do-zero-ao-avancado/)
-	* [Em andamento] [Data Science do Zero](https://stacktecnologias.com.br/curso-data-science-do-zero/)
+	* [Em andamento] [Curso de Python 3 do Básico Ao Avançado - Luiz Miranda (Udemy)](https://www.udemy.com/course/python-3-do-zero-ao-avancado/)
+	* [Em andamento] [Data Science do Zero - Stack Tecnologias (antigo Minerando Dados)](https://stacktecnologias.com.br/curso-data-science-do-zero/)
 
 
 
@@ -52,7 +52,6 @@ O projeto utiliza abordagens de ciência dos dados para desenvolver um painel de
 <h1>LISTA DE CONTEÚDOS</h1>
 
 * [Um pouco sobre a área](#sobre)
-* [Sugiro que começe por aqui](#comece)
 * [Motivação](#motivacao)
 * [Trilhas/ Dicas de estudos](#trilhas)
 * [Conteúdos para utilizar à medida que avançar](#avanco)
@@ -100,16 +99,7 @@ O projeto utiliza abordagens de ciência dos dados para desenvolver um painel de
 * [Quem quer ser uma cientista de dados? com Liliane Scandoleiro - AI Girls Comunidade](https://www.youtube.com/watch?v=AcpTqGPExmU)
 * [Como iniciar na carreira de ciência de dados?](https://medium.com/@mikaeriohana/como-iniciar-na-carreira-de-ci%C3%AAncia-de-dados-9b37aa525181)
 * [10 tipos de profissionais de dados : de engenheiros de dados a big data DevOps e analistas de dados , em qual dessas classificações você se encaixaria?](https://medium.com/@luis.anderson.sp/10-tipos-de-profissionais-de-dados-de-engenheiros-de-dados-a-big-data-devops-e-analistas-de-94259531270f)  [Medium]
-
-<h2 id="comece">SUGIRO QUE COMEÇE POR AQUI</h2>
-
-* [Como começar em Data Science? (Seja Um Data Scientist)](https://www.youtube.com/watch?v=eXg2sVIbFdM)  | [Youtube]
-* [Siga esse mapa de estudos e aprenda Data Science (Seja Um Data Scientist)](https://www.youtube.com/watch?v=2g7TBUDkDhM) | [Youtube]
-* [Matemática para Machine Learning - Didática Tech](https://www.youtube.com/watch?v=MSHpE9dnIho&list=PLyqOvdQmGdTTYHKdxWRmt8oOhMwYhmxkM) | [pt-br] [Youtube] (Dicas de como estudar matemática)
-* [Finalmente: uma fonte segura mostra o salário de um Cientista de Dados no Brasil! (Mario Filho - Data Science)](https://www.youtube.com/watch?v=zsEEFUJo0zQ) | [pt-br] [Youtube] 
-* [Siga Este Plano Para Aprender a Matemática Para Data Science - Live #31 - Mario Filho - Data Science](https://www.youtube.com/watch?v=XHnsS87bhuY&t=2599s) | [pt-br] [Youtube] 
-
-
+ 
 <h2 id="motivacao">MOTIVAÇÃO</h2>
 
 * ["Ciência de Dados do Zero à Kaggle Kernels Master" - Leonardo Fereira](https://www.linkedin.com/pulse/data-science-from-zero-kaggle-kernel-master-leonardo-ferreira/) | [Linkedin]
@@ -124,10 +114,13 @@ O projeto utiliza abordagens de ciência dos dados para desenvolver um painel de
 * [Trabalho de um cientista de dados - Café Debug/ Podcast](https://soundcloud.com/cafe-de-bug/33-trabalho-de-um-cientista-de-dados)
 * [Investir em uma carreira em IA vale a pena?](https://blogbrasil.westcon.com/investir-em-uma-carreira-em-inteligencia-artificial-vale-a-pena)
 
-<h2 id="trilhas">TRILHAS/ DICAS DE ESTUDOS</h2>
+<h2 id="trilhas">TRILHAS/ DICAS DE ESTUDOS/ ROADMAPS</h2>
 <p>Os conteúdos dos links podem ser utilizados para quem deseja montar um plano de estudos ou simplemente ter uma noção do que é necessário estudar. Me ajudaram a entender mais sobre a área, onde eu estava e por onde deveria seguir, por assim dizer. </p>
 
+* [Como criar um PLANO DE ESTUDOS para se tornar um CIENTISTA DE DADOS? (Roadmap Ciência de Dados) - 
+Programação Dinâmica](https://www.youtube.com/watch?v=o8NpsLSkKUo&t=464s) | [YouTube]
 * [Para iniciar em Data Sciense (DS) - Letícia Silva - ColaboraDados](http://colaboradados.com.br/blogposts/para-iniciar-em-data-science.html)
+* [Roadmap para Cientista de Dados l MÉTODO VOYAGER](https://www.youtube.com/watch?v=oBJNbNn4Wn8)
 * [Seus primeiros passos como Data Scientist: Introdução ao Pandas! - Vinícios Figueiredo](https://medium.com/data-hackers/uma-introdu%C3%A7%C3%A3o-simples-ao-pandas-1e15eea37fa1) [Medium]
 * [Siga Este Plano Para Aprender a Matemática Para Data Science - Live #31 - Mario Filho - Data Science](https://www.youtube.com/watch?v=XHnsS87bhuY&t=2599s) | [pt-br] [Youtube] 
 * [Python para ciência de dados em 5 passos - Nana Raythz](https://imasters.com.br/data/python-para-ciencia-de-dados-em-5-passos)
@@ -141,6 +134,14 @@ O projeto utiliza abordagens de ciência dos dados para desenvolver um painel de
 * [O Segredo Para Dominar o Machine Learning](https://medium.com/lejoaoconte/o-segredo-para-dominar-o-machine-learning-b9d60ceef172) | [pt-br][Medium]
 * [A Quarentena do Cientista de Dados, o que estudar?](https://medium.com/data-hackers/a-quarentena-do-cientista-de-dados-o-que-estudar-f6eefb0a7778) | [pt-br][Medium]
 * [Curso IA (2019) - USP](https://edisciplinas.usp.br/course/view.php?id=71193https://edisciplinas.usp.br/course/view.php?id=71193)
+* [Como começar em Data Science? (Seja Um Data Scientist)](https://www.youtube.com/watch?v=eXg2sVIbFdM)  | [Youtube]
+* [O QUE EU FARIA, SE TIVESSE QUE COMEÇAR DATA SCIENCE HOJE](https://www.youtube.com/watch?v=VlYDWOfiFuc)  | [Youtube]
+* [Siga esse mapa de estudos e aprenda Data Science (Seja Um Data Scientist)](https://www.youtube.com/watch?v=2g7TBUDkDhM) | [Youtube]
+* [Matemática para Machine Learning - Didática Tech](https://www.youtube.com/watch?v=MSHpE9dnIho&list=PLyqOvdQmGdTTYHKdxWRmt8oOhMwYhmxkM) | [pt-br] [Youtube] (Dicas de como estudar matemática)
+* [Finalmente: uma fonte segura mostra o salário de um Cientista de Dados no Brasil! (Mario Filho - Data Science)](https://www.youtube.com/watch?v=zsEEFUJo0zQ) | [pt-br] [Youtube] 
+* [Siga Este Plano Para Aprender a Matemática Para Data Science - Live #31 - Mario Filho - Data Science](https://www.youtube.com/watch?v=XHnsS87bhuY&t=2599s) | [pt-br] [Youtube] 
+
+
 
 <h2 id="avanco">CONTEÚDOS PARA UTILIZAR À MEDIDA QUE AVANÇAR NOS ESTUDOS</h2>
 <p>Exercícios e resumos que podem ser aproveitados durante os estudos.
@@ -344,7 +345,8 @@ Repósitorios com conteúdos, trilhas, dicas e exercícios, ou seja, possuem muu
 
 <h2 id="dataset">DATASETS PARA INICIANTES</h2>
 (organizar)
-https://archive.ics.uci.edu/ml/datasets.php
+* [UCI Machine Learning Repository: Data Sets](https://archive.ics.uci.edu/ml/datasets.php)
+* [Google Dataset Search](https://datasetsearch.research.google.com/)
 
 
 <h2 id="portifolio">DICAS PARA MONTAR PORTIFÓLIO</h2>
