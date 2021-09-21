@@ -53,7 +53,7 @@ O projeto utiliza abordagens de ciência dos dados para desenvolver um painel de
 
 * [Um pouco sobre a área](#sobre)
 * [Motivação](#motivacao)
-* [Trilhas/ Dicas de estudos](#trilhas)
+* [Trilhas/ Dicas de estudos/ Roadmaps](#trilhas)
 * [Conteúdos para utilizar à medida que avançar](#avanco)
 * [Livros gratuidos e pagos](#livros)
 * [Matemática](#mat)
