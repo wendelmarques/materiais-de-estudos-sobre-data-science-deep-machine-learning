@@ -119,6 +119,9 @@ O projeto utiliza abordagens de ciência dos dados para desenvolver um painel de
 
 * [Como criar um PLANO DE ESTUDOS para se tornar um CIENTISTA DE DADOS? (Roadmap Ciência de Dados) - 
 Programação Dinâmica](https://www.youtube.com/watch?v=o8NpsLSkKUo&t=464s) | [YouTube]
+* [Minha trilha de estudos para Data Science - Letícia Gerola/ Joguei os Dados](https://medium.com/joguei-os-dados/minha-trilha-de-estudos-para-data-science-bbfddf3941eb) | [Medium]
+* [Como se tornar um Cientista de Dados - 
+Marcos Silva](https://medium.com/team-data-stone/como-se-tornar-um-cientista-de-dados-bdda45047be1) | [Medium]
 * [Para iniciar em Data Sciense (DS) - Letícia Silva - ColaboraDados](http://colaboradados.com.br/blogposts/para-iniciar-em-data-science.html)
 * [Roadmap para Cientista de Dados l MÉTODO VOYAGER](https://www.youtube.com/watch?v=oBJNbNn4Wn8)
 * [Seus primeiros passos como Data Scientist: Introdução ao Pandas! - Vinícios Figueiredo](https://medium.com/data-hackers/uma-introdu%C3%A7%C3%A3o-simples-ao-pandas-1e15eea37fa1) [Medium]
