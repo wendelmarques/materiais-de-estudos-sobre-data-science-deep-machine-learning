@@ -63,7 +63,10 @@ Sinta-se a vontade para adicionar conteúdos.
 -------------------------------------------
 <h2 id="minhaTrilha">MINHA TRILHA/ JORNADA</h2>
 
-<h3>Cursos realizados e experiências profissinais até o momento</h3>
+**Graduação**
+* Ciência da Computação - UFG
+
+**Cursos realizados e experiências profissinais na área**
 
 * **2020**
   * [Concluído] [Python para Análise de Dados - Data Science Academy](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos) [[certificado]](https://www.datascienceacademy.com.br/certificate/57b4a75247d7dd688d8b456b/user/5eb4289ee32fc3728940687c)
@@ -78,13 +81,14 @@ Sinta-se a vontade para adicionar conteúdos.
 
 
 
-<h3>Projetos desenvolvidos até o momento</h3>
+**Projetos desenvolvidos até o momento**
 
 * [Mapeamento de médias do ENEM com Folium:](https://github.com/WendelMarques/mapeamento-medias-enem-folium)
 Mapeamento de médias do ENEM com Folium (uma biblioteca que facilita a visualização de dados em um mapa). A plotagem foi realizada levando-se em consideração os limites estaduais. Sendo assim, existem 27 grupos de escolas. Foram utilizados dois datasets. [[Medium]](https://medium.com/@wendelmarques/mapeamento-de-m%C3%A9dias-do-enem-por-estado-com-folium-bf61fe23a3d8)
 
 * [Painel COVID GYN:](https://github.com/wendelmarques/painel-covid-goiania)
 O projeto utiliza abordagens de ciência dos dados para desenvolver um painel de monitoramento dos dados da COVID-19 em relação a casos confirmados e óbitos. O painel contém gráficos e mapa com dados de Goiânia.
+
 
 
 
