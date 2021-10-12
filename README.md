@@ -17,7 +17,7 @@ Sinta-se a vontade para adicionar conteúdos ou <em>forkar</em> e mudar o foco. 
   * [Concluído] [Introdução ao Big Data - Fia Business School (Cousera)](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos) [[certificado]](https://www.coursera.org/account/accomplishments/records/U6WVRZY6CGQE)
   * [Pausado] [Bootcamp Completo em Data Science com Python 2020](https://www.udemy.com/course/curso-de-data-science-bootcamp-completo-em-data-science/)
   * [Pausado] [Programa de cursos integrados Ciência de dados aplicada com Python da University of Michigan](https://www.coursera.org/specializations/data-science-python)
-  * Estágio na área de Engenharia de Dados: criação de scripts para apoiar os processos de ETLde um Observatório
+  * Estágio na área de Engenharia de Dados: criação de scripts para apoiar os processos de ETL do Observátorio FIEG.
 
 * **2021**
 	* [Em andamento] [Curso de Python 3 do Básico Ao Avançado - Luiz Miranda (Udemy)](https://www.udemy.com/course/python-3-do-zero-ao-avancado/)
@@ -117,6 +117,8 @@ O projeto utiliza abordagens de ciência dos dados para desenvolver um painel de
 <h2 id="trilhas">TRILHAS/ DICAS DE ESTUDOS/ ROADMAPS</h2>
 <p>Os conteúdos dos links podem ser utilizados para quem deseja montar um plano de estudos ou simplemente ter uma noção do que é necessário estudar. Me ajudaram a entender mais sobre a área, onde eu estava e por onde deveria seguir, por assim dizer. </p>
 
+* [Trilha para Cientista de Dados ou estudante de Machine Learning - Odemir Depieri Jr](https://www.linkedin.com/feed/update/urn:li:activity:6852692981191852032/) | [LinkedIn]
+* [Trilha de Estatística para Data Science - Ronisson Lucas](https://github.com/ronissonlucas/Trilha-Estatistica-Data-Science) | [GitHub]
 * [Como criar um PLANO DE ESTUDOS para se tornar um CIENTISTA DE DADOS? (Roadmap Ciência de Dados) - 
 Programação Dinâmica](https://www.youtube.com/watch?v=o8NpsLSkKUo&t=464s) | [YouTube]
 * [Minha trilha de estudos para Data Science - Letícia Gerola/ Joguei os Dados](https://medium.com/joguei-os-dados/minha-trilha-de-estudos-para-data-science-bbfddf3941eb) | [Medium]
