@@ -1,40 +1,10 @@
 <h1>Materiais de estudos sobre Data Science e Machine Learning (nível iniciante)</h1>
 
-O objetivo deste repositório é organizar os links que encontrei durante minhas pesquisas por materiais de estudos sobre IA - composto por conteúdos majoritariamente gratuitos e em PT-BR. Inicialmente, meu objetivo profissional está entre Data Scientist e Machine Learning Engineer, sendo assim, o repositório será alimentado com materiais nesse sentido. 
+O objetivo deste respositório é organizar materiais de estudos - majoritariamente gratuitos e em PT-BR - sobre ciência de dados e inteligência artificial. Inicialmente, o criei para organizar os vários links que encontrei durante minhas pesquisas por materiais. Atualmente, acrescento todos materiais que acredito ser importante para quem está iniciando na área. 
 	
-Sinta-se a vontade para adicionar conteúdos ou <em>forkar</em> e mudar o foco. **Bons estudos!**
+Sinta-se a vontade para adicionar conteúdos.
 
  
-
-<br>
-<br>
-<h2>MINHA TRILHA/ JORNADA</h2>
-
-<h3>Cursos realizados e experiências profissinais até o momento</h3>
-
-* **2020**
-  * [Concluído] [Python para Análise de Dados - Data Science Academy](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos) [[certificado]](https://www.datascienceacademy.com.br/certificate/57b4a75247d7dd688d8b456b/user/5eb4289ee32fc3728940687c)
-  * [Concluído] [Introdução ao Big Data - Fia Business School (Cousera)](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos) [[certificado]](https://www.coursera.org/account/accomplishments/records/U6WVRZY6CGQE)
-  * [Pausado] [Bootcamp Completo em Data Science com Python 2020](https://www.udemy.com/course/curso-de-data-science-bootcamp-completo-em-data-science/)
-  * [Pausado] [Programa de cursos integrados Ciência de dados aplicada com Python da University of Michigan](https://www.coursera.org/specializations/data-science-python)
-  * Estágio na área de Engenharia de Dados: criação de scripts para apoiar os processos de ETL do Observátorio FIEG.
-
-* **2021**
-	* [Em andamento] [Curso de Python 3 do Básico Ao Avançado - Luiz Miranda (Udemy)](https://www.udemy.com/course/python-3-do-zero-ao-avancado/)
-	* [Em andamento] [Data Science do Zero - Stack Tecnologias (antigo Minerando Dados)](https://stacktecnologias.com.br/curso-data-science-do-zero/)
-
-
-
-<h3>Projetos desenvolvidos até o momento</h3>
-
-* [Mapeamento de médias do ENEM com Folium:](https://github.com/WendelMarques/mapeamento-medias-enem-folium)
-Mapeamento de médias do ENEM com Folium (uma biblioteca que facilita a visualização de dados em um mapa). A plotagem foi realizada levando-se em consideração os limites estaduais. Sendo assim, existem 27 grupos de escolas. Foram utilizados dois datasets. [[Medium]](https://medium.com/@wendelmarques/mapeamento-de-m%C3%A9dias-do-enem-por-estado-com-folium-bf61fe23a3d8)
-
-* [Painel COVID GYN:](https://github.com/wendelmarques/painel-covid-goiania)
-O projeto utiliza abordagens de ciência dos dados para desenvolver um painel de monitoramento dos dados da COVID-19 em relação a casos confirmados e óbitos. O painel contém gráficos e mapa com dados de Goiânia.
-
-
-
 <br>
 <br>
 
@@ -42,7 +12,7 @@ O projeto utiliza abordagens de ciência dos dados para desenvolver um painel de
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
 </p></figcaption>
 <p align="center">
-  Como me sinto quando tento estudar durante uma pandemia
+  Eu estudando na pandemia
 </p>
 
 
@@ -51,6 +21,7 @@ O projeto utiliza abordagens de ciência dos dados para desenvolver um painel de
 
 <h1>LISTA DE CONTEÚDOS</h1>
 
+* [Minha trilha/ Jornada](#minhaTrilha)
 * [Um pouco sobre a área](#sobre)
 * [Motivação](#motivacao)
 * [Trilhas/ Dicas de estudos/ Roadmaps](#trilhas)
@@ -90,6 +61,33 @@ O projeto utiliza abordagens de ciência dos dados para desenvolver um painel de
 		* [Instituições](#inst)
 
 -------------------------------------------
+<h2 id="minhaTrilha">MINHA TRILHA/ JORNADA</h2>
+
+<h3>Cursos realizados e experiências profissinais até o momento</h3>
+
+* **2020**
+  * [Concluído] [Python para Análise de Dados - Data Science Academy](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos) [[certificado]](https://www.datascienceacademy.com.br/certificate/57b4a75247d7dd688d8b456b/user/5eb4289ee32fc3728940687c)
+  * [Concluído] [Introdução ao Big Data - Fia Business School (Cousera)](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos) [[certificado]](https://www.coursera.org/account/accomplishments/records/U6WVRZY6CGQE)
+  * [Pausado] [Bootcamp Completo em Data Science com Python 2020](https://www.udemy.com/course/curso-de-data-science-bootcamp-completo-em-data-science/)
+  * [Pausado] [Programa de cursos integrados Ciência de dados aplicada com Python da University of Michigan](https://www.coursera.org/specializations/data-science-python)
+  * Estágio na área de Engenharia de Dados: criação de scripts para apoiar os processos de ETL do Observátorio FIEG.
+
+* **2021**
+	* [Em andamento] [Curso de Python 3 do Básico Ao Avançado - Luiz Miranda (Udemy)](https://www.udemy.com/course/python-3-do-zero-ao-avancado/)
+	* [Em andamento] [Data Science do Zero - Stack Tecnologias (antigo Minerando Dados)](https://stacktecnologias.com.br/curso-data-science-do-zero/)
+
+
+
+<h3>Projetos desenvolvidos até o momento</h3>
+
+* [Mapeamento de médias do ENEM com Folium:](https://github.com/WendelMarques/mapeamento-medias-enem-folium)
+Mapeamento de médias do ENEM com Folium (uma biblioteca que facilita a visualização de dados em um mapa). A plotagem foi realizada levando-se em consideração os limites estaduais. Sendo assim, existem 27 grupos de escolas. Foram utilizados dois datasets. [[Medium]](https://medium.com/@wendelmarques/mapeamento-de-m%C3%A9dias-do-enem-por-estado-com-folium-bf61fe23a3d8)
+
+* [Painel COVID GYN:](https://github.com/wendelmarques/painel-covid-goiania)
+O projeto utiliza abordagens de ciência dos dados para desenvolver um painel de monitoramento dos dados da COVID-19 em relação a casos confirmados e óbitos. O painel contém gráficos e mapa com dados de Goiânia.
+
+
+
 
 <h2 id="sobre">UM POUCO SOBRE A ÁREA</h2>
 
