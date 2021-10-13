@@ -63,10 +63,8 @@ Sinta-se a vontade para adicionar conteúdos.
 -------------------------------------------
 <h2 id="minhaTrilha">MINHA TRILHA/ JORNADA</h2>
 
-**Graduação**
-* Ciência da Computação - UFG
 
-**Cursos realizados e experiências profissinais na área**
+**Cursos realizados e experiências profissinais/ acadêmicas**
 
 * **2020**
   * [Concluído] [Python para Análise de Dados - Data Science Academy](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos) [[certificado]](https://www.datascienceacademy.com.br/certificate/57b4a75247d7dd688d8b456b/user/5eb4289ee32fc3728940687c)
@@ -76,8 +74,10 @@ Sinta-se a vontade para adicionar conteúdos.
   * Estágio na área de Engenharia de Dados: criação de scripts para apoiar os processos de ETL do Observátorio FIEG.
 
 * **2021**
+	* Iniciação Cientifica na área de Minereação de Dados (2020/2021) 
 	* [Em andamento] [Curso de Python 3 do Básico Ao Avançado - Luiz Miranda (Udemy)](https://www.udemy.com/course/python-3-do-zero-ao-avancado/)
 	* [Em andamento] [Data Science do Zero - Stack Tecnologias (antigo Minerando Dados)](https://stacktecnologias.com.br/curso-data-science-do-zero/)
+	* Bolsista em um centro de pesquisa em Inteligência Artificial
 
 
 
